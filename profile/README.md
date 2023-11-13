@@ -15,8 +15,8 @@
 - [LinkedIn](https://www.linkedin.com/in/drent23/)
 - [GitHub](https://github.com/drent23)
 
-## Project Management Kanban Board:
-- https://github.com/orgs/CF201Group2/projects/1/views/1
+## Project Management:
+- [Kanban Board](https://github.com/orgs/CF201Group2/projects/1/views/1)
 
 ## Repositories
 - [Documentation & Diagrams](https://github.com/CF201Group2/Documentation-Diagrams)
