@@ -1,5 +1,5 @@
 # SecureStore Tech
-- Your IT solutions provider for your most challenging automation needs!
+- Your IT Managed Service Provider of choice for your most challenging automation needs!
 
 ## Team Members
 ### Juan Maldonado
