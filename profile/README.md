@@ -21,7 +21,7 @@
 ## Current Project:
 - Non Profit Organization
 ### Problem Domain:
-- A small not for profit organization wants expand its footprint for volunteers, part-time and full time positions and needs a MSP to setup, maintain, train users, and respond to help tickets
+- A small not for profit organization wants to expand its footprint for volunteers, part-time and full time positions and needs a MSP to setup, maintain, train users, and respond to help tickets
 
 ### Scope of Work includes finding solutions for the following needs/requirements:
 1. Large companies donate laptops that need to be updated
