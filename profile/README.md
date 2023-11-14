@@ -23,11 +23,11 @@
 - A small not for profit organization wants expand its footprint for volunteers, part-time and full time positions and needs a MSP to setup, maintain, train users, and respond to help tickets
 
 ### Scope of Work includes finding solutions for the following needs/requirements:
-- Large companies donate laptops that need to be updated
-- Employees will get to keep laptops
-- Switching to Hybrid Work Model
-- Some employees handle financial information and PII need additional security
-- Financial and PII data will be secured on-site (not Cloud)
+1. Large companies donate laptops that need to be updated
+2. Employees will get to keep laptops
+3. Switching to Hybrid Work Model
+4. Some employees handle financial information and PII need additional security
+5. Financial and PII data will be secured on-site (not Cloud)
 
 ### Project Management:
 - [Kanban Board](https://github.com/orgs/CF201Group2/projects/1/views/1)
