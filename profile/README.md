@@ -24,8 +24,8 @@
 - A small not for profit organization wants to expand its footprint for volunteers, part-time and full time positions and needs a MSP to setup, maintain, train users, and respond to help tickets
 
 ### Scope of Work includes finding solutions for the following needs/requirements:
-1. Large companies donate laptops that need to be updated
-2. Employees will get to keep laptops
+1. Large companies donate the issued laptops that need to be sanitized and imaged
+2. Employees will get to keep laptops when leaving the company
 3. Switching to Hybrid Work Model
 4. Some employees handle financial information and PII need additional security
 5. Financial and PII data will be secured on-site (not Cloud)
