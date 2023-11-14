@@ -1,23 +1,36 @@
-# SecureStore Tech
+# Remote Management Solutions (RMS)
 - Your IT Support/Managed Service Provider of choice for your most challenging automation needs!
 
-## Team Members
-### Juan Maldonado
-- [LinkedIn](https://www.linkedin.com/in/juan-maldonado-163733b7/)
-- [GitHub](https://github.com/Juan-bit94)
-### Rodolfo Gonzalez
-- [LinkedIn](http://www.linkedin.com/in/rgonzo1355)
-- [GitHub](https://github.com/rgonzo1355)
-### John Kelly
-- [LinkedIn](https://www.linkedin.com/in/john-f-k/)
-- [GitHub](https://github.com/JFKELLY89)
-### David Renteria
-- [LinkedIn](https://www.linkedin.com/in/drent23/)
-- [GitHub](https://github.com/drent23)
+## About Remote Mgmt Solutions -
+- RMS has been in business since late 2023, and it prides itself on exceeding customer expectations without exceeding budgetary constraints.  We do so by exploiting as many free, open-source applications as possible without compromising on security and stability.
+- Our team consists of reputable military veterans who still embody the values of Integrity, Duty, and Respect and hold themselves accountable for their work and our customers' satisfaction.  You can learn more about them below:
+      ### Juan Maldonado
+      - [LinkedIn](https://www.linkedin.com/in/juan-maldonado-163733b7/)
+      - [GitHub](https://github.com/Juan-bit94)
+      ### Rodolfo Gonzalez
+      - [LinkedIn](http://www.linkedin.com/in/rgonzo1355)
+      - [GitHub](https://github.com/rgonzo1355)
+      ### John Kelly
+      - [LinkedIn](https://www.linkedin.com/in/john-f-k/)
+      - [GitHub](https://github.com/JFKELLY89)
+      ### David Renteria
+      - [LinkedIn](https://www.linkedin.com/in/drent23/)
+      - [GitHub](https://github.com/drent23)
 
-## Project Management:
-- [Kanban Board](https://github.com/orgs/CF201Group2/projects/1/views/1)
+## Current Project:
+- Non Profit Organization
+      ### Problem Domain:
+      - A small not for profit organization wants expand its footprint for volunteers, part-time and full time positions and needs a MSP to setup, maintain, train users, and respond to help tickets
 
-## Repositories
-- [Documentation & Diagrams](https://github.com/CF201Group2/Documentation-Diagrams)
--
+      ### Scope of Work includes finding solutions for the following needs/requirements:
+      - Large companies donate laptops that need to be updated
+      - Employees will get to keep laptops
+      - Switching to Hybrid Work Model
+      - Some employees handle financial information and PII need additional security
+      - Financial and PII data will be secured on-site (not Cloud)
+
+      ### Project Management:
+      - [Kanban Board](https://github.com/orgs/CF201Group2/projects/1/views/1)
+      
+      ## Repositories
+      - [Documentation & Diagrams](https://github.com/CF201Group2/Documentation-Diagrams)
