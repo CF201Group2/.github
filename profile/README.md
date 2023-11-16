@@ -36,3 +36,4 @@
 ## Repositories
 - [Documentation & Diagrams](https://github.com/CF201Group2/Documentation-Diagrams)
 - [Presentation Deck](https://github.com/CF201Group2/Presentation-Deck)
+- [Scripts](https://github.com/CF201Group2/User-Provisioning)
